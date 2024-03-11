@@ -40,3 +40,15 @@ To run the script, use the following command:
 
 ```
 
+## 2-sort.rb
+
+This Ruby script takes an array of integers as an argument and sorts it in ascending order using the Bubble sort algorithm.
+
+### Usage
+
+To run the script, use the following command:
+
+```bash
+./2-sort.rb <argument1> <argument2> <argument3> ...
+
+```
